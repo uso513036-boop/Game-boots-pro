@@ -1,0 +1,6 @@
+{
+  "name": "Game Booster FPS",
+  "description": "Optimizador de rendimiento y limpiador de RAM en segundo plano para Roblox y juegos en teléfonos de 4GB RAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
